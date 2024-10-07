@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ozan Kayalı</h1>
+<h1 align="center">Hi 👋, I'm Ozan Kayalı.</h1>
 <h3 align="center">Kocaeli Health and Technology University Computer Programming student from Turkey. Software developer and web designer.</h3>
 
 - 🔭 I’m currently working on **React**
